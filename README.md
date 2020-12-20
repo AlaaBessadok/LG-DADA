@@ -19,7 +19,7 @@ This work is published in Medical Image Analysis Journal 2020. LG-DADA is a geom
 
 # Libraries to install
 
-The code has been tested on a computer having Ubuntu 16.04 and GPU is not required to run the code. You also need other dependencies:
+The code has been tested on a computer having Ubuntu 16.04 and GPU is not required to run the code. You also need to install dependencies:
 
 * [Python >= 2.7](https://www.python.org)
 * [Anaconda 2-5.3.0](https://www.anaconda.com/products/individual)
