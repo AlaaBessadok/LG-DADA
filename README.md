@@ -1,7 +1,7 @@
 # LG-DADA
 MultiGraphGAN for predicting a target brain graph from a source brain graph, coded up in Python by Alaa Bessadok. Please contact alaa.bessadok@gmail.Com for further inquiries. Thanks. 
 
-This repository provides the official PyTorch implementation of the following paper:
+This repository provides the official Tensorflow implementation of the following paper:
 
 <p align="center">
   <img src="./LG-DADA_flow.png">
