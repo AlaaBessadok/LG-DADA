@@ -17,7 +17,7 @@ This repository provides the official PyTorch implementation of the following pa
 
 This work is published in Medical Image Analysis Journal 2020. LG-DADA is a geometric deep learning framework for for target brain graph prediction from a single source graph. It comprises four key steps (1) feature extraction and clustering, (2) adversarial domain alignment, (3) dual adversarial regularization and (4) target brain graph prediction. We have evaluated our method on ABIDE dataset. Detailed information can be found in the original paper. In this repository, we release the code for training and testing LG-DADA on a simulated dataset.
 
-# Libraries to preinstall in Python
+# Libraries to install
 
 The code has been tested on a computer having Ubuntu 16.04 and GPU is not required to run the code. You also need other dependencies:
 
