@@ -22,12 +22,12 @@ This work is published in Medical Image Analysis Journal 2020. LG-DADA is a geom
 The code has been tested on a computer having Ubuntu 16.04 and GPU is not required to run the code. You also need other dependencies:
 
 * [Python >= 2.7](https://www.python.org)
-* [Anaconda 2-5.3.0] (https://www.anaconda.com/products/individual)
-* [TensorFlow 1.5] (https://www.tensorflow.org/?hl=fr)
-* [Numpy >= 1.8] (https://numpy.org/)
-* [scikit-learn >= 0.17] (https://scikit-learn.org/stable/)
-* [Scipy >= 0.13.2] (https://www.scipy.org/)
-* [SIMLR] (https://github.com/bowang87/SIMLR_PY)
+* [Anaconda 2-5.3.0](https://www.anaconda.com/products/individual)
+* [TensorFlow 1.5](https://www.tensorflow.org/?hl=fr)
+* [Numpy >= 1.8](https://numpy.org/)
+* [scikit-learn >= 0.17](https://scikit-learn.org/stable/)
+* [Scipy >= 0.13.2](https://www.scipy.org/)
+* [SIMLR](https://github.com/bowang87/SIMLR_PY)
 
 # Run from Jupyter Notebook
 
