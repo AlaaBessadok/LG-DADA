@@ -4,7 +4,7 @@ MultiGraphGAN for predicting a target brain graph from a source brain graph, cod
 This repository provides the official PyTorch implementation of the following paper:
 
 <p align="center">
-  <img src="./fig1.png">
+  <img src="./LG-DADA_flow.png">
 </p>
 
 
